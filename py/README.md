@@ -5,7 +5,7 @@ Python (v2 or v3) code supporting the [Digital Bitbox](https://digitalbitbox.com
 
 ### Developer interface
 
-Use `send_command.py` and `dbb_utils.py` to communicate with a Digital Bitbox. See the [API](https://digitalbitbox.com/api) for available commands.
+Use `send_command.py` and `dbb_utils.py` to communicate with a Digital Bitbox. See the [API](https://shiftcrypto.ch/bitbox01/api/5.0.0/) for available commands.
 
 Dependencies:
 
